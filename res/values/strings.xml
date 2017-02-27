@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstiBin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nearestbin">Get Nearest Bin</string>
+    <string name="direction">Get Direction</string>
+    <string name="satellite">Satellite Map</string>
+    <string name="normal">Normal Map</string>
+    <string name="getallbin">All WasteBins</string>
+    <string name="removeall">Remove all Bins</string>
+    <string name="affiliation">Credentials: C-USE, IIT Bombay, Mumbai</string> 
+    
+</resources>
